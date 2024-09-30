@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolkersonam&label=Profile%20views&color=0e75b6&style=flat" alt="dolkersonam" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at [https://dolkersonam.github.io/Portfolio/](https://dolkersonam.github.io/Portfolio/)
 
